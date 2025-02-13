@@ -134,7 +134,5 @@ Start the ml-server (FLASK)
 ## Authors
 
 - [@ashishnallana](https://www.github.com/ashishnallana)
-- [@Kamesh-Kadimisetty]
-<!-- - [@Yaswanth14](https://github.com/Yaswanth14)
-- [@sahithigurlinka3](https://github.com/sahithigurlinka3) -->
+- [@Kamesh-Kadimisetty](https://github.com/Kamesh-Kadimisetty)
 
