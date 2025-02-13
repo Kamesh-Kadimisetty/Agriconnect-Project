@@ -1,0 +1,29 @@
+
+.pnf{
+    margin-top: 150px;
+    text-align: center;
+    min-height: 80vh;
+    color: rgba(0, 0, 0, 0.858);
+}
+
+.pnf-title{
+    font-size: 15em;
+}
+
+.pnf-heading{
+    font-size: 3em;
+    margin: 30px;
+}
+
+.pnf-btn{
+    background-color: #00BF63;
+    font-size: 2em;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.spinner{
+    font-size: 2em;
+    text-align: center;
+    margin: 100px;
+}
