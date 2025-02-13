@@ -1,0 +1,60 @@
+{
+    "header": {
+        "home" : "Home",
+        "weather": "Weather",
+        "trending": "Trending",
+        "profile": "My Profile",
+        "logout": "Logout"
+    },
+    "login": {
+        "login": "Login",
+        "email": "Email",
+        "password": "Password",
+        "don't have an account": "Don't have an account?",
+        "signup": "Signup"
+    },
+    "register":{
+        "name":"Name",
+        "email":"Email",
+        "username":"@username",
+        "your language":"Your Language",
+        "select location":"Select Location",
+        "password":"Password",
+        "register":"Register",
+        "already have an account?":"Already have an account?",
+        "login":"Login"
+    },
+    "weather": {
+        "dateselector": {
+            "sun":"Sun",
+            "mon":"Mon",
+            "tue":"Tue",
+            "wed":"Wed",
+            "thu":"Thu",
+            "fri":"Fri",
+            "sat" :"Sat",
+            "jan":"Jan",
+            "feb":"Feb",
+            "mar":"Mar",
+            "apr":"Apr",
+            "may":"May",
+            "jun":"Jun",
+            "jul":"Jul",
+            "aug":"Aug",
+            "sep":"Sep",
+            "oct":"Oct",
+            "nov":"Nov",
+            "dec":"Dec"
+        },
+        "weatherreport":{
+            "description":"Description",
+            "temperature":"Temperature",
+            "humidity":"Humidity",
+            "pressure":"Pressure"
+        },
+        "home":{
+            "how's your crop?":"How's your crop?",
+            "post":"Post"
+        }
+    }
+}

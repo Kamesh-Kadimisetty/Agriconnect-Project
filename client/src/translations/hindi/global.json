@@ -1,0 +1,60 @@
+{
+    "header": {
+        "home" : "होम",
+        "weather": "मौसम",
+        "trending": "ट्रेंडिंग",
+        "profile": "प्रोफ़ाइल",
+        "logout": "लॉग आउट"
+    },
+    "login": {
+        "login": "लॉग इन",
+        "email": "ईमेल",
+        "password": "पासवर्ड",
+        "don't have an account": "कोई अकाउंट नहीं है?",
+        "signup": "साइन अप"
+    },
+    "register":{
+        "name":"नाम",
+        "email":"ईमेल",
+        "username":"यूजरनाम",
+        "your language":"आपकी भाषा",
+        "select location":"स्थान चुनें",
+        "password":"पासवर्ड",
+        "register":"रजिस्टर",
+        "already have an account?":"पहले से ही एक अकाउंट है?",
+        "login":"लॉग इन"
+    },
+    "weather": {
+        "dateselector": {
+            "sun":"रविवार",
+            "mon":"सोमवार",
+            "tue":"मंगलवार",
+            "wed":"बुधवार",
+            "thu":"गुरुवार ",
+            "fri":"शुक्रवार",
+            "sat" :"शनिवार",
+            "jan":"जनवरी",
+            "feb":"फरवरी",
+            "mar":"मार्च",
+            "apr":"अप्रैल",
+            "may":"मई",
+            "jun":"जून",
+            "jul":"जुलाई ",
+            "aug":"अगस्त",
+            "sep":"सितंबर",
+            "oct":"अक्टूबर",
+            "nov":"नवंबर ",
+            "dec":"दिसंबर"
+        },
+        "weatherreport":{
+            "description":"विवरण",
+            "temperature":"तापमान",
+            "humidity":"नमी",
+            "pressure":"दबाव"
+        },
+        "home":{
+            "how's your crop?":"आपकी फसल कैसी है?",
+            "post":"पोस्ट"
+        }
+    }
+}

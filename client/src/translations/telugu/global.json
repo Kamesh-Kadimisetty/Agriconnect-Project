@@ -1,0 +1,60 @@
+{
+    "header": {
+        "home" : "హోమ్",
+        "weather": "వాతావరణం",
+        "trending": "ట్రెండింగ్‌",
+        "profile": "ప్రొఫైల్",
+        "logout": "లాగ్అవుట్"
+    },
+    "login": {
+        "login": "లాగిన్",
+        "email": "ఇమెయిల్",
+        "password": "పాస్వర్డ్",
+        "don't have an account": "అకౌంట్ లేదా?",
+        "signup": "నమోదు"
+    },
+    "register":{
+        "name":"పేరు",
+        "email":"ఇమెయిల్",
+        "username":"ఉసెర్ణమే",
+        "your language":"మీ భాష",
+        "select location":"స్థానాన్ని ఎంచుకోండి",
+        "password":"పాస్వర్డ్",
+        "register":"నమోదు చేసుకోండి",
+        "already have an account?":"అకౌంట్ కలిగి ఉన్నారా?",
+        "login":"లాగిన్"
+    },
+    "weather": {
+        "dateselector": {
+            "sun":"ఆదివారం",
+            "mon":"సోమవారం",
+            "tue":"మంగళవారం",
+            "wed":"బుధవారం",
+            "thu":"గురువారం",
+            "fri":"శుక్రవారం",
+            "sat":"శనివారం",
+            "jan":"జనవరి",
+            "feb":"ఫిబ్రవరి",
+            "mar":"మార్చ్",
+            "apr":"ఏప్రిల్",
+            "may":"మే",
+            "jun":"జూన్",
+            "jul":"జులై",
+            "aug":"ఆగష్టు",
+            "sep":"సెప్టెంబర్",
+            "oct":"అక్టోబర్",
+            "nov":"నవంబర్",
+            "dec":"డిసెంబర్"
+        },
+        "weatherreport":{
+            "description":"వివరణ",
+            "temperature":"ఉష్ణోగ్రత",
+            "humidity":"తేమ",
+            "pressure":"ఒత్తిడి"
+        },
+        "home":{
+            "how's your crop?":"మీ పంట ఎలా ఉంది?",
+            "post":"పోస్ట్"
+        }
+    }
+}

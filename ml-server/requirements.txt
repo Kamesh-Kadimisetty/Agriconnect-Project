@@ -1,0 +1,4 @@
+langchain==0.1.11
+openai==0.27.8
+langchain-openai
+flask==3.0.2

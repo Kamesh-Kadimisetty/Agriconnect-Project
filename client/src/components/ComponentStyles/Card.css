@@ -1,0 +1,68 @@
+.Card{
+    width: 250px;
+    max-height: 250px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 1px 10px 1px black;
+  }
+    
+.upper-container{
+    height: 100px;
+    background: linear-gradient(to right,rgb(255, 70, 101),rgb(250, 144, 162),rgb(248, 164, 178),rgb(250, 144, 162),rgb(255, 70, 101));
+  }
+  
+.image-container img{
+    background: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding: 5px;
+    transform: translate(70px,45px);
+}
+img{
+    border: 2px solid  rgb(255, 70, 101);
+}
+.lower-container{
+    margin-top: 60px;
+    height: 130px;
+    background: white;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+    border-bottom: 1px solid black;
+}
+.lower-container h3,h6{
+    margin:0;
+    padding: 0;
+}
+
+.lower-container h3{
+    color: black;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+.lower-container h6{
+    color: rgba(24, 0, 0, 0.338);
+    font-weight: 300;
+    font-size: 0.7rem;
+}
+button{
+    font-family: 'Titillium Web', sans-serif;
+    margin: 1rem;
+    margin-top: 0;
+    color:black;
+    font-size: medium;
+
+    background-color:rgb(248, 111, 134);
+    border: 1px solid rgb(255, 248, 248);
+    padding: 0.6rem;
+    border-radius: 6px;
+    transition-duration: 0.5s;
+    animation: ease-in-out;
+}
+button:hover{
+    background-image: linear-gradient(to right,rgb(250, 144, 162),rgb(248, 164, 178),rgb(250, 144, 162));
+    transform: scale(1.2,1.2);
+    border: none;
+    color: black;
+}
+
