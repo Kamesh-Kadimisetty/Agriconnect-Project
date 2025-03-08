@@ -60,7 +60,7 @@ Agri Connect is built on the MERN stack (MongoDB, Express.js, React.js, Node.js)
 Clone the project
 
 ```bash
-  git clone https://github.com/ashishnallana/AgriConnect.git
+  https://github.com/Kamesh-Kadimisetty/Agriconnect-Project.git
 ```
 
 Go to the project directory
